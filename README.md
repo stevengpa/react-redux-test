@@ -19,4 +19,4 @@ npm install
 npm run test
 ```
 <img src="https://github.com/StevenPerez/images/blob/master/react-redux-test.gif"/>
-####Step 5: Check files inside the `src` folder :)
+####Step 5: Check the files inside the `src` folder :)
